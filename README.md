@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/bapezta/bapezta/blob/main/your_profile_picture_or_banner.png?raw=true" alt="Your Profile Picture/Banner" width="200"/> 
+  <img src="https://github.com/bapezta/bapezta/blob/main/your_profile_picture_or_banner.png?raw=true" alt="Your Profile Picture/Banner" width="200"/>
   <h1>Hey there! I'm Bapezta 👋</h1>
   <h3>AKA Bape or Bapesta</h3>
 </div>
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>GitHub Stats</h2>
   <p>
-    <img src="https://github-profile-views-counter.herokuapp.com/user/bapezta" alt="GitHub profile views" />
+    [![views](https://komarev.com/ghpvc/?username=bapezta&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/bapezta)
   </p>
   <p>
     <img src="https://img.shields.io/github/followers/bapezta?style=for-the-badge&label=Followers&logo=github&color=green" alt="GitHub followers" />

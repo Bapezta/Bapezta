@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Connect with me</h2>
   <p>
     <a href="https://t.me/temporary68" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>

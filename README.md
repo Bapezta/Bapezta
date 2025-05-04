@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>
-    [![views](https://komarev.com/ghpvc/?username=bapezta&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/bapezta)
+      <img src="https://komarev.com/ghpvc/?username=bapezta&style=flat&color=313131&label=views&abbreviated=true" alt="Profile views" />
   </p>
   <p>
     <img src="https://img.shields.io/github/followers/bapezta?style=for-the-badge&label=Followers&logo=github&color=green" alt="GitHub followers" />
